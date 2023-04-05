@@ -49,9 +49,3 @@ implementar uma dessas entidades.</h4>
 ⇨ Abra outro terminal e acesse a pasta frontend<br>
 ⇨ Instale as dependências com "npm i"<br>
 ⇨ Execute o frontend com o comando "npm start".<br>
-
-<h3> Desenvolvido por <h3>
- 
-```
-Jonatan Silva
-```
