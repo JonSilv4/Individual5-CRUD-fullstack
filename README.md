@@ -31,7 +31,7 @@ definir quais são as entidades que o projeto precisa
 contemplar e cada um de vocês será responsável por
 implementar uma dessas entidades.</h4>
 
-
+<h2>TEMA: Cadastro de pedidos de camisa de times de futebol</h2>
 <h2>🗺️Mapeamento da Entidade</h2>
 
 <h2>⇨ Os dados abaixo serão necessários serem criados no SQL para a execução do projeto.</h2>
